@@ -17,7 +17,7 @@ repositories {
 
 dependencies {
     // Use Scala 2.13 in our library project
-    implementation("org.scala-lang:scala3-library_3:3.2.1")
+    implementation("org.scala-lang:scala3-library_3:3.4.1")
 }
 
 application {
